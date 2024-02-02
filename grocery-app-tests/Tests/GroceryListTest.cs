@@ -1,6 +1,6 @@
-﻿using grocery_app_csharp_tests.Pages;
+﻿using grocery_app_tests.Pages;
 
-namespace grocery_app_csharp_tests.Tests
+namespace grocery_app_tests.Tests
 {
     [TestFixture]
     [Parallelizable(ParallelScope.All)]

@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace grocery_app_csharp_tests.Pages
+namespace grocery_app_tests.Pages
 {
     public class GroceryListPage : WebPage
 	{

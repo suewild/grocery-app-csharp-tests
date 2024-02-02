@@ -2,7 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace grocery_app_csharp_tests.Tests
+namespace grocery_app_tests.Tests
 {
     public abstract class BaseTest
 	{

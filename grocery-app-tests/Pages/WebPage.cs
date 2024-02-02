@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace grocery_app_csharp_tests.Pages
+namespace grocery_app_tests.Pages
 {
     public class WebPage
     {
