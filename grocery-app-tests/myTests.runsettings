@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+    <!-- Configuration for NUnit tests -->
+    <NUnit>
+        <NumberOfTestWorkers>2</NumberOfTestWorkers> <!-- Adjust the number as needed -->
+    </NUnit>
+</RunSettings>
+
